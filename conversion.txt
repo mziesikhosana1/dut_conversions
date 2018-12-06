@@ -1,4 +1,5 @@
 CONVERSIONS
 - RANDS TO CENTS
+	Multiply Rand
 - KM TO M
 - LITER TO ML
